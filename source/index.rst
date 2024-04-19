@@ -1,3 +1,8 @@
+This is the third commit
+
+I have made these changes for pushing from remote terminal as second commit"
+
+
 .. Testing project documentation master file, created by
    sphinx-quickstart on Wed Apr  3 14:06:47 2024.
    You can adapt this file completely to your liking, but it should at least
