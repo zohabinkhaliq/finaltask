@@ -1,3 +1,5 @@
+This is the third commit
+
 I have made these changes for pushing from remote terminal as second commit"
 
 
